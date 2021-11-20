@@ -28697,6 +28697,20 @@
       }
     }
   ],
+  {
+      "chainId": 101,
+      "address": "8uNXpiLmqRaMX1vBpLqpkns4naLpJgqt8pREFYvm2RAn",
+      "symbol": "WEALTH",
+      "name": "Assembly Wealth",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/Db3M5SR/TA-GOLD-COIN-OCTAGON.png",
+      "tags": [],
+      "extensions": {
+        "twitter": "https://twitter.com/theassemblynft",
+        "website": "https://theassembly.club"
+      }
+    }
+  ],
   "version": {
     "major": 0,
     "minor": 3,
